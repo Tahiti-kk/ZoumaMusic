@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<SongListService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <songLists>
+    <SongList>
+      <Songs>
+        <SongsInfo>
+          <FileName>暧昧-薛之谦</FileName>
+          <FilePath>D:\MySong\Music\暧昧-薛之谦.mp3</FilePath>
+          <Filesize>4.76 MB</Filesize>
+          <Artist>未知</Artist>
+          <Album>未知</Album>
+          <Duration>00:05:12</Duration>
+          <ByteRate>‎128kbps</ByteRate>
+        </SongsInfo>
+        <SongsInfo>
+          <FileName>动物世界（Cover 薛之谦）-伦桑</FileName>
+          <FilePath>D:\MySong\Music\动物世界（Cover 薛之谦）-伦桑.mp3</FilePath>
+          <Filesize>3.51 MB</Filesize>
+          <Artist>未知</Artist>
+          <Album>未知</Album>
+          <Duration>00:03:50</Duration>
+          <ByteRate>‎128kbps</ByteRate>
+        </SongsInfo>
+        <SongsInfo>
+          <FileName>动物世界-李宇春</FileName>
+          <FilePath>D:\MySong\Music\动物世界-李宇春.mp3</FilePath>
+          <Filesize>3.41 MB</Filesize>
+          <Artist>未知</Artist>
+          <Album>未知</Album>
+          <Duration>00:03:43</Duration>
+          <ByteRate>‎128kbps</ByteRate>
+        </SongsInfo>
+        <SongsInfo>
+          <FileName>动物世界-薛之谦</FileName>
+          <FilePath>D:\MySong\Music\动物世界-薛之谦.mp3</FilePath>
+          <Filesize>3.51 MB</Filesize>
+          <Artist>未知</Artist>
+          <Album>未知</Album>
+          <Duration>00:03:50</Duration>
+          <ByteRate>‎128kbps</ByteRate>
+        </SongsInfo>
+      </Songs>
+      <SongListName>新建列表</SongListName>
+    </SongList>
+  </songLists>
+</SongListService>
